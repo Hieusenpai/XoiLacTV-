@@ -1,0 +1,9 @@
+# 1. Giải nén, mở VSCode
+cd C:\Users\abc\Desktop\meetlite\meetlite
+
+# 2. Cài dependencies
+npm install
+
+# 3. Khởi động server
+npm start
+# hoặc nhấn F5 trong VSCode
